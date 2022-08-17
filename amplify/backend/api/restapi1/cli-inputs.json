@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/restapi1": {
+      "name": "/restapi1",
+      "lambdaFunction": "restapi1",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
